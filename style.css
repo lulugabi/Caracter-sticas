@@ -31,7 +31,7 @@ header {
     font-size: 50px;
     height: 1000px;
 }
-.Uzumaki {
+.Uzumaki img {
     display: flex;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
@@ -61,4 +61,5 @@ a{
 }
 img {
     width: 54%;
+    align-items: center;
 }
