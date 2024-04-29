@@ -72,3 +72,9 @@ a {
     color: #ffffff;
     font-size: 40px;
 }
+
+.clique a {
+    color: #ffdd1b;
+    text-align: center;
+    font-size: x-large;
+}
