@@ -30,6 +30,9 @@ header {
 .intro-img{
     width: 221px;
     height: 217px;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
 }
 .intro{
     display: flex;
